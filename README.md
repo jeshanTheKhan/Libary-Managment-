@@ -1,5 +1,5 @@
 ## Library Management System Project Description
-
+<img src="https://www.skoolbeep.com/blog/wp-content/uploads/2020/12/WHAT-IS-THE-PURPOSE-OF-A-LIBRARY-MANAGEMENT-SYSTEM-min.png" height="auto" width="3000px">
  Introduction:
 The provided C++ code implements a simple Library Management System. This system allows users to manage a collection of books and users within a library. The key functionalities include adding books, displaying the list of books, adding users, and displaying the list of users. The system is menu-driven, where users can interact with the program by choosing options from the menu.
 
